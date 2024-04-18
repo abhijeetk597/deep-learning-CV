@@ -1,8 +1,9 @@
-## This repository contains my Deep Learning (Computer Vision) Projects
+## This repository contains my Computer Vision Projects
 
 |Sr No.| Project Title | Tools / Models |
 |------|---------------|------------|
 | 01 | [🐶 Dog Vision : 120 Dog Breeds Classification](https://github.com/abhijeetk597/project-dog-vision) | Tensorflow |
+| 02 | [🚗 Highway Vehicle Counter](https://github.com/abhijeetk597/ObjectDetection)|OpenCV, YOLO8, CVZone|
 
 ### Mini Projects
 
